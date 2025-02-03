@@ -1,0 +1,1 @@
+Mini-jeu type "Frogger"
